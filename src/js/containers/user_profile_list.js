@@ -8,7 +8,7 @@ class ProfileList extends Component {
   createProfileList(){
     return this.props.userProfiles.map((profile) => {
       return (
-        <li className="collection-item" key={profile.id}>
+        <li className="collection-item" key={profile.id} data-tab={profile.id}>
           <div>{profile.templateId} <a href="#!" className="secondary-content">
             <i
               className="material-icons"
