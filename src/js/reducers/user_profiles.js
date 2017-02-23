@@ -5,10 +5,10 @@ export default function(){
     {
       id:1,
       userId: "12fddf3",
-      templateId : "templ_01",
+      templateId : "templateA",
       profile: {
         name: "Peter Ngerere",
-        dateOfBirth: "July-1985",
+        dateOfBirth: "July-1988",
         nationality: "Kenyan",
         maritalStatus: "Married",
         jobTitle: "Full Stack Web Developer",
@@ -16,7 +16,7 @@ export default function(){
         objective: "I am a full stack freelance web developer at upwork.  I have a 6 years experience in web app which I have developed through various intensive and demanding projects that have push me to gain in-depth knowledge in web application design, modeling , testing and debugging. I value good work and always ensure that my end product has accepted international standards that are of best value to my clients.  I have come a long way in a short time and I am always eager to learn and contribute my knowledge to a dynamic team or company. I believe in open source , sharing and being open to share my knowledge whenever needed. "
       },
       contactsAndSocialLinks:{
-        phone: "+254724642551",
+        phone: "+2547242222222",
         email: "pngesh@gmail.com",
         website: "www/bluesoftwaresolns.com",
         github: "",
@@ -28,10 +28,10 @@ export default function(){
     {
       id:2,
       userId: "12fddf3",
-      templateId : "templ_123",
+      templateId : "templateB",
       profile: {
         name: "Peter Ngerere",
-        dateOfBirth: "July-1985",
+        dateOfBirth: "July-1982",
         nationality: "Kenyan",
         maritalStatus: "Married",
         jobTitle: "NodeJS Expert",
@@ -39,7 +39,7 @@ export default function(){
         objective: "I am a full stack freelance web developer at upwork.  I have a 6 years experience in web app which I have developed through various intensive and demanding projects that have push me to gain in-depth knowledge in web application design, modeling , testing and debugging. I value good work and always ensure that my end product has accepted international standards that are of best value to my clients.  I have come a long way in a short time and I am always eager to learn and contribute my knowledge to a dynamic team or company. I believe in open source , sharing and being open to share my knowledge whenever needed. "
       },
       contactsAndSocialLinks:{
-        phone: "+254724642551",
+        phone: "+2547288",
         email: "pngesh@gmail.com",
         website: "www/bluesoftwaresolns.com",
         github: "",
@@ -50,10 +50,10 @@ export default function(){
     },{
       id:3,
       userId: "12fddf3",
-      templateId : "templ_124",
+      templateId : "templateC",
       profile: {
         name: "Peter Ngerere",
-        dateOfBirth: "July-1985",
+        dateOfBirth: "Jun-1975",
         nationality: "Kenyan",
         maritalStatus: "Married",
         jobTitle: "RESTful API Developer",
@@ -61,7 +61,7 @@ export default function(){
         objective: "I am a full stack freelance web developer at upwork.  I have a 6 years experience in web app which I have developed through various intensive and demanding projects that have push me to gain in-depth knowledge in web application design, modeling , testing and debugging. I value good work and always ensure that my end product has accepted international standards that are of best value to my clients.  I have come a long way in a short time and I am always eager to learn and contribute my knowledge to a dynamic team or company. I believe in open source , sharing and being open to share my knowledge whenever needed. "
       },
       contactsAndSocialLinks:{
-        phone: "+254724642551",
+        phone: "+254724e55",
         email: "pngesh@gmail.com",
         website: "www/bluesoftwaresolns.com",
         github: "",
@@ -73,10 +73,10 @@ export default function(){
     {
       id:4,
       userId: "12fddf3",
-      templateId : "templ_100",
+      templateId : "templateD",
       profile: {
         name: "Peter Ngerere",
-        dateOfBirth: "July-1985",
+        dateOfBirth: "Jan-1965",
         nationality: "Kenyan",
         maritalStatus: "Married",
         jobTitle: "ReactJS and Redux Developer",
@@ -84,7 +84,7 @@ export default function(){
         objective: "I am a full stack freelance web developer at upwork.  I have a 6 years experience in web app which I have developed through various intensive and demanding projects that have push me to gain in-depth knowledge in web application design, modeling , testing and debugging. I value good work and always ensure that my end product has accepted international standards that are of best value to my clients.  I have come a long way in a short time and I am always eager to learn and contribute my knowledge to a dynamic team or company. I believe in open source , sharing and being open to share my knowledge whenever needed. "
       },
       contactsAndSocialLinks:{
-        phone: "+254724642551",
+        phone: "+2547dfdf",
         email: "pngesh@gmail.com",
         website: "www/bluesoftwaresolns.com",
         github: "",
